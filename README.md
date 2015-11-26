@@ -1,5 +1,5 @@
 # graphic-era
-Sic final code.c is the main file,
+Sic final code.c is the main file.
 The files Input.txt and Optab.txt are user defined.
 Input.txt file contains a program for which we have to find the value of
 locations counter in each step and to generate a Symtab.txt , Length.txt
